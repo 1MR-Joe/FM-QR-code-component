@@ -4,7 +4,7 @@ easy & nice challenge
 
 ### Screenshot
 
-![](./screen-shot/QR-code-component.png)
+![](./screen-shot/Web%20capture_30-9-2022_16211_127.0.0.1.jpeg)
 
 ### Links
 
